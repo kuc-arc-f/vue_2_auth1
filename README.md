@@ -14,6 +14,7 @@ Vue.js (Vue-CLI 3) +firebase Auth sample ,Google認証
 ***
 ### more :
 
+https://knaka0209.hatenablog.com/entry/vue_spa_18
 
 ***
 
